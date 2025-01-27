@@ -2,8 +2,7 @@
 
 **Markdown** is a better way to write **HTML**, without all the complexities and ugliness that usually accompanies it.
 
-![The Markdown Mark](images/markdown-red.png)  
-_Figure 1: The Markdown Mark_
+![Figure 1: The Markdown Mark](images/markdown-red.png)
 
 Some of the key benefits are:
 
