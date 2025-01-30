@@ -24,3 +24,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce molestie iaculis 
 
 </div>
 </div>
+
+* ![Mountain](images/chase-moyer-730496-unsplash.jpg) 
+* ![Mountain](images/chase-moyer-730496-unsplash.jpg)
+* ![Mountain](images/chase-moyer-730496-unsplash.jpg)
+* ![Mountain](images/chase-moyer-730496-unsplash.jpg)
+* ![Mountain](images/chase-moyer-730496-unsplash.jpg)
+* ![Mountain](images/chase-moyer-730496-unsplash.jpg)
